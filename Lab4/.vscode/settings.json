@@ -1,0 +1,29 @@
+{
+    "files.associations": {
+        "*.asset": "yaml",
+        "*.csproj": "xml",
+        "*.ldtk": "json",
+        "*.ldtkl": "json",
+        "*.toml": "bat",
+        "config": "shellscript",
+        "*.plist": "xml",
+        "algorithm": "c",
+        "*.tcc": "c",
+        "fstream": "c",
+        "memory": "c",
+        "new": "c",
+        "numeric": "c",
+        "system_error": "c",
+        "bit": "c",
+        "exception": "c",
+        "cmath": "c",
+        "functional": "c",
+        "random": "c",
+        "istream": "c",
+        "limits": "c",
+        "ostream": "c",
+        "ratio": "c",
+        "streambuf": "c",
+        "typeinfo": "c"
+    }
+}
